@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LICENÇA-MIT-blue?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -15,7 +14,7 @@
 
 ## 🖼️ Banner
 <p align="center">
-  <img src="https://i.imgur.com/zH2l3sF.png" alt="Banner Gerenciador" width="700px">
+  <img src="banner.png" alt="Banner do Projeto" width="100%">
 </p>
 
 ---
